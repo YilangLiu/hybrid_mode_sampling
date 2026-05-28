@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:yilangliu.github.io)",
+      "Bash(curl -s https://yilangliu.github.io/hybrid_mode_sampling/)"
+    ]
+  }
+}
